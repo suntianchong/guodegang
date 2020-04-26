@@ -1,0 +1,17 @@
+{
+  "pages": [
+    "pages/createDiary/createDiary",
+    "pages/index/index",
+    "pages/logs/logs",
+  
+    "pages/my/my"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle": "black"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}
